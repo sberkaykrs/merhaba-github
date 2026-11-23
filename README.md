@@ -1,15 +1,7 @@
-# Merhaba GitHub
+## HOBİLER
 
-Bu depo, GitHub'ı öğrenirken
-oluşturduğum ilk depo.
-
-## Hakkımda
-
-- **Bölüm: Bilgisayar Mühendisliği** 
-- **En çok merak ettiğim konu:** ...
-
-- ## Bu depoda neler var ?
-  
-- [İlk programım](kodlar/merhaba.py)
-
-![MERHABA GİTHUB](merhabagithub.PNG)
+- asd
+- efg
+- hij
+- klm
+- nop
